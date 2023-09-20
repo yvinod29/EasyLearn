@@ -1,0 +1,30 @@
+ .signin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+   .easy-learn-text {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px; 
+  }
+  
+  
+  .tagline {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;  
+  }
+  
+ 
+  .card-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;  
+  }
+  
+  
+  
